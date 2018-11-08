@@ -30,10 +30,10 @@ body {
 
 .excel div {
 	position: absolute;
-	top: 0;
+	top: 200px;
 	left: 0;
 	right: 0;
-	bottom: 100px;
+	bottom: 0;
 	margin: auto;
 	text-align: center;
 	width: 100%;
