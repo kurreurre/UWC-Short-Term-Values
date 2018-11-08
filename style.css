@@ -30,7 +30,7 @@ body {
 
 .excel div {
 	position: absolute;
-	top: 200px;
+	top: 100px;
 	left: 0;
 	right: 0;
 	bottom: 0;
@@ -44,6 +44,7 @@ body {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
+	top: 300px;
 	width: 100%;
 	heigth: 100%;
 	background-color: #4B96F4;
