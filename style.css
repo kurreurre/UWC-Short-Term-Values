@@ -1,12 +1,12 @@
 .container {
   width: 300px;
 	height: 10px;
-	margin: 0 auto;
+	margin: 2px auto;
 }
 
 .horizontal div {
 	text-align: center;
-	margin: 0 auto;
+	margin: 2px auto;
 }
 
 .whole {
