@@ -19,7 +19,7 @@ body {
 	bottom: 30px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-up: 10%;
+	margin-up:50%;
 	width: 100%;
 	heigth: 500px;
 	background-color: #4B96F4;
@@ -47,11 +47,12 @@ body {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	margin-up: 20%;
+	margin-up: 100%;
 	top: 500px;
 	width: 100%;
 	heigth: 100%;
 	background-color: #4B96F4;
+	border: 1px solid blue;
 }
 	
 
