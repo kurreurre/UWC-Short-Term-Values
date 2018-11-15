@@ -21,7 +21,7 @@ body {
 	margin-right: auto;
 	margin-up: 10%;
 	width: 100%;
-	heigth: 100%;
+	heigth: 500px;
 	background-color: #4B96F4;
 	border: 1px solid blue;
 
@@ -47,6 +47,7 @@ body {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
+	margin-up: 20%;
 	top: 500px;
 	width: 100%;
 	heigth: 100%;
