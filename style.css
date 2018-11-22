@@ -1,17 +1,14 @@
 body {
 	background-color:#4B96F4;
 	margin: 0 auto;
+	border: 2px solid blue;
 }
 
 .container {
   width: 100%;
-	height: 100px;
+	height: 200px;
 	margin: auto;
-}
 
-.horizontal div {
-	text-align: center;
-	margin: auto;
 }
 
 .whole {
@@ -23,7 +20,6 @@ body {
 	width: 100%;
 	heigth: 500px;
 	background-color: #4B96F4;
-	border: 1px solid blue;
 
 }
 	
@@ -33,26 +29,25 @@ body {
 
 .excel div {
 	position: absolute;
-	top: 100px;
+	margin-up: 100px;
 	left: 0;
 	right: 0;
 	bottom: 0;
 	margin: auto;
 	text-align: center;
 	width: 100%;
-	height: 100%;
+	height: 1000px;
+	background-color: #4B96F4;
 }
 	
 .text {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	margin-up: 100%;
-	top: 500px;
+	margin-up: 100px;
 	width: 100%;
-	heigth: 100%;
 	background-color: #4B96F4;
-	border: 1px solid blue;
+
 }
 	
 
