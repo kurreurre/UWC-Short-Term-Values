@@ -27,7 +27,7 @@ body {
 	position: relative;
 }
 
-.excel div {
+.excel iframe {
 	position: absolute;
 	margin-up: 100px;
 	left: 0;
